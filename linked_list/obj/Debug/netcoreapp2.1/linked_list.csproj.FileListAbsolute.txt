@@ -1,0 +1,11 @@
+D:\SEM_3\C#\Assignments\linked_list\linked_list\bin\Debug\netcoreapp2.1\linked_list.deps.json
+D:\SEM_3\C#\Assignments\linked_list\linked_list\bin\Debug\netcoreapp2.1\linked_list.runtimeconfig.json
+D:\SEM_3\C#\Assignments\linked_list\linked_list\bin\Debug\netcoreapp2.1\linked_list.runtimeconfig.dev.json
+D:\SEM_3\C#\Assignments\linked_list\linked_list\bin\Debug\netcoreapp2.1\linked_list.dll
+D:\SEM_3\C#\Assignments\linked_list\linked_list\bin\Debug\netcoreapp2.1\linked_list.pdb
+D:\SEM_3\C#\Assignments\linked_list\linked_list\obj\Debug\netcoreapp2.1\linked_list.csprojAssemblyReference.cache
+D:\SEM_3\C#\Assignments\linked_list\linked_list\obj\Debug\netcoreapp2.1\linked_list.csproj.CoreCompileInputs.cache
+D:\SEM_3\C#\Assignments\linked_list\linked_list\obj\Debug\netcoreapp2.1\linked_list.AssemblyInfoInputs.cache
+D:\SEM_3\C#\Assignments\linked_list\linked_list\obj\Debug\netcoreapp2.1\linked_list.AssemblyInfo.cs
+D:\SEM_3\C#\Assignments\linked_list\linked_list\obj\Debug\netcoreapp2.1\linked_list.dll
+D:\SEM_3\C#\Assignments\linked_list\linked_list\obj\Debug\netcoreapp2.1\linked_list.pdb
